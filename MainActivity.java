@@ -59,7 +59,7 @@ public class MainActivity extends Activity {
 				Log.d("Test", ""+arr.get(i).toString());
 			}
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch block 01
 			e.printStackTrace();
 		}
 
